@@ -38,8 +38,6 @@ st.markdown("<h1 style='text-align:center;'>🚢 Sistema Logístico Inteligente<
 
 
 
-st.title("🚢 Sistema de Gestão Logística Portuária")
-
 # ---------------- LISTAS BASE ----------------
 tipos = ["Container", "Granel", "Perecível", "Químico"]
 clientes = ["Maersk", "Evergreen", "ONE"]
